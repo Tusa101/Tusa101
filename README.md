@@ -14,7 +14,7 @@ I love coding!
 * 🚀  I'm currently working on [Bulky book shop on the course from Udemy here](http://github.com/Tusa101/TusaBook)
 * 🧠  I'm learning ASP.NET Core deeper, working througth EF, REST API, learning JS, CSS and HTML
 * ⚡  I'm currently a purple belt in jiu-jitsu, but I'm motivated to become a black belt in both BJJ and CodeWars :D
-<img style="width:300; border-radius:50; overflow:hidden;" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+<img style="width:400px; border-radius: 30px;" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 ### Skills
 
