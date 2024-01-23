@@ -1,3 +1,5 @@
+[![MasterHead](https://disenosolution.com/wp-content/uploads/2021/11/3426526.png)]([https://rishavchanda.io](https://www.linkedin.com/in/alexander-tuskaev-727670236/))
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Tuskaev
 =========================================================================================================================================
 
@@ -12,7 +14,7 @@ I love coding!
 * 🚀  I'm currently working on [Bulky book shop on the course from Udemy here](http://github.com/Tusa101/TusaBook)
 * 🧠  I'm learning ASP.NET Core deeper, working througth EF, REST API, learning JS, CSS and HTML
 * ⚡  I'm currently a purple belt in jiu-jitsu, but I'm motivated to become a black belt in both BJJ and CodeWars :D
-
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 ### Skills
 
 
