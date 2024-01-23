@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/yNfH8pHw/Git-Hub-Banner.png)](https://www.linkedin.com/in/alexander-tuskaev-727670236/)
+[![MasterHead](https://i.postimg.cc/8PyBwhTT/Git-Hub-Banner.png)](https://www.linkedin.com/in/alexander-tuskaev-727670236/)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Tuskaev
 =========================================================================================================================================
