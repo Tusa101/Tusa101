@@ -6,7 +6,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer and Web Developer
 -----------------------------------
 
-I love coding!
+.NET developer with 2.5 years of experience. My main language is C#, the second one is C++. My skills allow me to cover development on the platform.NET from both desktop development (WPF) and web development (ASP.NET Core MVC/Razor Pages).
+During my professional career, I've covered
+1. development of highly loaded plugins for the corporate trading platform;
+2. development of custom applications and plugins.
+I have experience designing applications using UML diagrams and interfaces using Adobe XD/Figma.
+In my free time, I am interested in trading, improving my knowledge in the field of System Design, clean architecture of software systems and clean code.
+I am ready to communicate with the team and/or customers in English.
+Link to github: https://github.com/Tusa101
+Contacts: +7(921)396-55-12, amtuska@gmail.com
 
 * 🌍  I'm based in Saint-Petersburg, Russia
 * 🖥️  See my portfolio at [FinSim project WebSite](http://di-finsim.ru/)
