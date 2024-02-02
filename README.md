@@ -10,6 +10,7 @@ Software Engineer and Web Developer
 During my professional career, I've covered
 1. development of highly loaded plugins for the corporate trading platform;
 2. development of custom applications and plugins.
+
 I have experience designing applications using UML diagrams and interfaces using Adobe XD/Figma.
 In my free time, I am interested in trading, improving my knowledge in the field of System Design, clean architecture of software systems and clean code.
 I am ready to communicate with the team and/or customers in English.
