@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer and Web Developer
 -----------------------------------
 
-.NET developer with 2.5 years of experience. My main language is C#, the second one is C++. My skills allow me to cover development on the platform.NET from both desktop development (WPF) and web development (ASP.NET Core MVC/Razor Pages).
+.NET developer with 3+ years of experience. My main language is C#, the second one is C++. My skills allow me to cover development on the platform.NET from both desktop development (WPF) and web development (ASP.NET Core MVC/Razor Pages).
 During my professional career, I've covered
 1. development of highly loaded plugins for the corporate trading platform;
 2. development of custom applications and plugins.
