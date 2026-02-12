@@ -3,27 +3,24 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Tuskaev
 =========================================================================================================================================
 
-Software Engineer and Web Developer
+Senior Software Engineer and .NET Developer
 -----------------------------------
 
-.NET developer with 3+ years of experience. My main language is C#, the second one is C++. My skills allow me to cover development on the platform.NET from both desktop development (WPF) and web development (ASP.NET Core MVC/Razor Pages).
-During my professional career, I've covered
-1. development of highly loaded plugins for the corporate trading platform;
-2. development of custom applications and plugins.
+.NET developer with 5 years of experience in backend development with ASP.NET . I have handson experience building and optimizing microservices, configuring CI/CD pipelines, running and managing cloud 
+infrastructure. I actively contribute to system design, conduct code reviews and create scalable solutions. 
+Additionally, I’ve mentored developers and interviewed new hires. Moreover, I have a bachelor’s degree in 
+computer science (BCS). To mention, I have excellent problem-solving skills, and I have strong communication 
+skills to work in a team or solve problems independently. In conclusion, self-learning skill is my advantage.
 
-I have experience designing applications using UML diagrams and interfaces using Adobe XD/Figma.
-In my free time, I am interested in trading, improving my knowledge in the field of System Design, clean architecture of software systems and clean code.
-I am ready to communicate with the team and/or customers in English.
+I am ready to communicate with the team and/or customers in English, Russian.
 Link to github: https://github.com/Tusa101
-Contacts: +7(921)396-55-12, amtuska@gmail.com
 
-* 🌍  I'm based in Saint-Petersburg, Russia
-* 🖥️  See my portfolio at [FinSim project WebSite](http://di-finsim.ru/)
+* 🌍  I'm based in Central District, Israel
 * ✉️  You can contact me at [amtuska@gmail.com](mailto:amtuska@gmail.com)
-* 🚀  I'm currently working on [Bulky book shop on the course from Udemy here](http://github.com/Tusa101/TusaBook)
-* 🧠  I'm learning ASP.NET Core deeper, working througth EF, REST API, learning JS, CSS and HTML
+* 🚀  I'm currently working at [movement-group](https://movement-group.com/en/))
+* 🧠  I'm learning ASP.NET Core deeper, learning micro-optimizations, GoLang
 * ⚡  I'm currently a purple belt in jiu-jitsu, but I'm motivated to become a black belt in both BJJ and CodeWars :D
-<img width="300" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+<img width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 ### Skills
 
